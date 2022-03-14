@@ -24,4 +24,4 @@ User story;
   - User can display list of searched city weather data card like on gif.
   - If new searched city is in the weather data list, app can display a warning text to user on page.
 
-🔥 I use [OpenWeather Api](https://openweathermap.org/) for your app. 
+🔥 I use [OpenWeather Api](https://openweathermap.org/) for my app. 
