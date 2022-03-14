@@ -1,4 +1,3 @@
-// 5fe5f6b3301f8311fe998acd9061f372
 const form = document.querySelector(".top-banner form");
 const input = document.querySelector(".container input");
 const msg = document.querySelector("span.msg");
